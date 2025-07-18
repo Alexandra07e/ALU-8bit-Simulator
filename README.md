@@ -32,6 +32,5 @@ Each operation is selected via a control unit using a 2-bit selector.
 
 ---
 
-## 📁 Project Structure
 
 
